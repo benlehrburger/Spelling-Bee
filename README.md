@@ -6,7 +6,7 @@ This program generates an entirely new spelling bee game and allows you to play 
 Now there's no need to wait 24 hours for your next puzzle – you can create your own with the push of a button.
 
 ## File Structure
-<i>spellingBee.py</i> – the main executable code of the program\n
+<i>spellingBee.py</i> – the main executable code of the program  
 <i>validWords.py</i> – a dataset of the 40,000 most common English words
 
 ## Installation
